@@ -2,7 +2,7 @@
 
 All of the script contents are in this repository.
 
-The scripts have been written as part of my course on how to learn T-SQL on Udemy.
+The scripts have been written as part of my course on how to learn T-SQL on Udemy: https://www.udemy.com/course/microsoft-sql-server-and-t-sql-course-for-beginners
 
 Note: The AdventureWorks2017 database is just included in this repository since it is used as part of my course, however it is not something I made. The credit goes to the following source: https://docs.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15
 
